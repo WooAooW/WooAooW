@@ -1,46 +1,21 @@
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+## 通用
 
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff) ![Nginx](https://img.shields.io/badge/-Docker-269539?style=for-the-badge&logo=Nginx&logoColor=fff)
+ 
+![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=ffffff)  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code) 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+## 前端
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
+![Node](https://img.shields.io/badge/-NodeJS-F05032?style=for-the-badge&logo=Node.js&logoColor=ffffff) ![Webpack](https://img.shields.io/badge/-Webpack-2C3A42?style=for-the-badge&logo=webpack) ![Vue.js](https://img.shields.io/badge/-Vue.js-2c3e50?style=for-the-badge&logo=Vue.js) ![ESlint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=eslint)
 
-![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+## 后端
 
-![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
+![Java](https://img.shields.io/badge/-Java-EE0b19?style=for-the-badge&logo=java) ![Go](https://img.shields.io/badge/-Go-007396?style=for-the-badge&logo=Go) 
 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff) ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=ffffff)
 
-![Rollup](https://img.shields.io/badge/-Rollup.js-%23434343?style=for-the-badge&logo=rollup.js)
+## Github状态
 
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-
-![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff)
-
-
-
-### Hi there 👋
-
-<!--
-**KissAoe/KissAoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Helee's github stats](https://github-readme-stats.vercel.app/api?username=KissAoe&theme=merko&show_icons=true)
+![Helee's github stats](https://github-readme-stats.vercel.app/api?username=KissAoe&theme=merko&show_icons=true&bg_color=20,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
